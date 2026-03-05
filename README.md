@@ -19,7 +19,8 @@ Notifications: To send optional daily photo reminders (with your permission).
 Third-Party Services
 Lapse uses the following third-party services that may collect information:
 
-Advertising (Google AdMob): For users on the free tier, Lapse displays advertisements provided by Google AdMob. Google may collect and use device information, including your Advertising Identifier (IDFA), IP address, and device type, to serve relevant ads. You can opt out of personalized advertising through your device's privacy settings. For more information, see Google's Privacy Policy at https://policies.google.com/privacy
+Advertising (Google AdMob)
+For users on the free tier, Lapse displays advertisements provided by Google AdMob. Google may collect and use device information, including your Advertising Identifier (IDFA), IP address, and device type, to serve relevant ads. We will request your permission through Apple's App Tracking Transparency prompt to track your activity across other companies' apps and websites to deliver these personalized ads. You can manage or revoke these permissions at any time in your device's privacy settings. For more information, see Google's Privacy Policy at https://policies.google.com/privacy
 
 Subscription Management (RevenueCat): Lapse uses RevenueCat to manage Supporter subscriptions. RevenueCat processes purchase-related data through Apple's App Store infrastructure. RevenueCat does not receive your personal information, only anonymized transaction identifiers. For more information, see RevenueCat's Privacy Policy at https://www.revenuecat.com/privacy
 
