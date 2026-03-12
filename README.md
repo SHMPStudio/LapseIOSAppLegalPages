@@ -1,1 +1,1 @@
-Legal Pages for the IOS app - Lapse.
+Legal Pages for the IOS app - LUUQ (Previously Lapse)
